@@ -1,0 +1,8 @@
+1. Doing everything same as the previous breast cancer prediction ml till standardizing the data
+2. importing tensorflow and keras
+3. setting up layers
+4. compiling and training the NN
+5. Visualizing the accuracy and the loss of the model
+6. Finding the accuracy on test data
+7. print labels for the target prediction(as they will be decimal from 0 to 1)
+8. building a predictive system

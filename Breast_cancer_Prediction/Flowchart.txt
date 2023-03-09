@@ -1,0 +1,8 @@
+1. Importing dependencies
+2. Loading dataset into a panda data frame
+3. Data analysis
+4. Label Encoding
+5. separating feature and targets and train and test data
+6. Training LogisticRegression model
+7. evaluating the accuracy score
+8. Building a predictive system

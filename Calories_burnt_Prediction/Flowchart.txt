@@ -1,0 +1,9 @@
+1. Importing dependencies
+2. loading both datasets to a panda data frame
+3. data analysis
+4. converting text to numerics
+5. Graphical Visualization
+6. separating target and features
+7. splitting train and test data
+8. training XGBRegressor model
+9. evaluating the errors

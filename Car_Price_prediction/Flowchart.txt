@@ -1,0 +1,8 @@
+1. Importing Dependencies
+2. Loading data into the panda data frame
+3. replacing text values with numeric values
+4. Splitting the data and target value and later splitting the training and test dataset
+5. training the LinearRegression model and evaluating the error
+6. Visualizing the actual and predicted prices and doing the same for test data
+7. Doing the above(5 and 6)procedures for lasso regression(better model)
+8. Making a predictive system
