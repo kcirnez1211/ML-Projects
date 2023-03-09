@@ -1,0 +1,9 @@
+1. Importing depenedencies
+2. Loading data into dataframe
+3. checking for empty data
+4. correlation of features via graphs and heatmaps
+5. seperating data and labels and changing labels to binary(0 and 1)
+6. splitting test and training data
+7. training the model
+8. evaluating the accuracy
+9. Making a predictive system

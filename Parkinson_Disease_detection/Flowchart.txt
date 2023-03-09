@@ -1,0 +1,9 @@
+1. Importing Dependencies
+2. Loading dataset into a panda data frame
+3. Data analysis
+4. separating X and Y and removing 'name'
+5. splitting train and test data
+6. standardizing the value of the features using standard scaler
+7. training the SVM model
+8. evaluating the accuracy of test and train model
+9. making a predictive system

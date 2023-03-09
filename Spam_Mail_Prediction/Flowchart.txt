@@ -1,0 +1,10 @@
+1. Importing dependencies
+2. Loading data in a panda data frame
+3. Data Analysis
+4. converting text to numerics(only binary)
+5. separating target and features
+6. splitting train and test data
+7. converting emailsumerics via TfidVectorizer
+8. training the logistic regression model
+9. evaluating the accuracy score
+10. Building a predictive system

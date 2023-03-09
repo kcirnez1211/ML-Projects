@@ -1,0 +1,8 @@
+1. saved the model of various disease predictions (3)
+2. load the saved models
+3. creating a sidebar for navigation using icons from bootstraps
+4. creating three pages
+5. creating multiple columns on each page
+6. Taking input in variables
+7. creating a button and predicting the outcome and printing it
+8. Doing the above same for other two diseases model

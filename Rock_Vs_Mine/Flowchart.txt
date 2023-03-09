@@ -1,0 +1,7 @@
+1. Importing Dependencies
+2. Data collection(pandas)
+3. Separating data and labels(X and Y)
+4. Splitting training and test data
+5. Model Training(Logistic Regression)
+6. Checking the accuracy of both train and test data
+7. Making a predictive system using a instance from the dataset
