@@ -1,0 +1,15 @@
+1. Importing dependencies
+2. loading dataset into a panda data frame
+3. Data analysis
+4. selecting features for recommendation
+5. replacing null values with an empty string
+6. combing all selected features and converting them into numerics
+7. Building a recommendation system:
+	#getting the movie name input from the user
+	# Create a list of all movies present in the dataset
+	# find a close match of movie input by the user
+	#finding index of the movie
+	# get the list of similar movies
+	#sorting similar movies
+	#print name of similar movies based on the index
+
