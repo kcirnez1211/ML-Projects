@@ -1,0 +1,7 @@
+1. Loading image via web get
+2. converting it to a NumPy array using matplotlib.image module
+3. Displaying image from NumPy array
+4. resizing the image via pillow library
+5. saving the image
+6. Converting RGB to grayscale via OpenCV library
+7. Saving the grayscale image

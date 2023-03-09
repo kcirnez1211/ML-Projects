@@ -1,0 +1,10 @@
+1. Importing Dependencies
+2. Importing dataset and converting it into a panda data frame
+3. checking the missing values in the dataset
+4. detecting the correlation among the features
+5. splitting the label and data
+6. splitting in train and test data
+7. Model Training
+8. predicting training and test data
+9. Finding the error in the regression model of both train and test
+10. Visualizing the actual and predicted prices

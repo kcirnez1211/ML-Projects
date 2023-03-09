@@ -1,0 +1,10 @@
+1. Importing Dependencies
+2. Loading data in a panda data frame
+3. Checking and replacing the empty values
+4. replacing 3+ value with 4
+5. Finding correlation with different features using visual graphs
+6. replacing all the text with numerical values
+7. Separating data and labels and later splitting the training and testing data
+8. training the model(SVM) and evaluating the accuracy
+9. Finally making a predictive system
+

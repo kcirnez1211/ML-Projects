@@ -1,0 +1,8 @@
+1. Import some libraries like fastapi ,pydantic ,json.
+2. create a base model for the type of parameters
+3. loading the saved diabetes model
+4. convering the dictionary to list
+5. predicting the model
+6. run the file using uvicorn
+7. to implement enter the values for the parameters
+8. printing the output

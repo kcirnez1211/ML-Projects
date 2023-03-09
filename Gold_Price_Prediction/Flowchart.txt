@@ -1,0 +1,8 @@
+1. Importing Dependencies
+2. Loading data into a panada data frame
+3. Finding correlation among features through heatmaps and distplots
+4. Splitting X and Y and train and test data
+5. Training RandomForestRegressor model
+6. evaluating the error and visualizing the predicted and actual data
+7. comparing actual and predicted data
+8. Making a predictive system

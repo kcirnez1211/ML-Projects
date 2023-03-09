@@ -1,0 +1,14 @@
+1. Importing various libraries for NN such as TensorFlow, cv2, and PIL
+2. Loading the preprocessed MNIST data in train and test data
+3. scaling the NumPy arrays by dividing by 225
+4. Building layers for NN
+5. Compiling the model
+6. Evaluating the loss and accuracy
+7. Converting predictions to integral labels(using np.argmax())
+8. Creating confusion matrix and heat maps
+9. Building a predictive system:
+	# taking input as an image file
+	# converting it to grayscale from RGB
+	# Resizing it(28,28)
+	# Reshaping it for input
+	# Predicting and convering the label

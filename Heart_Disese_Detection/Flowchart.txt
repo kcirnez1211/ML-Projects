@@ -1,0 +1,8 @@
+1. Importing Dependencies
+2. Loaded dataset into a panda data frame
+3. Data analysis
+4. separated target and data 
+5. separated training and test data
+6. training the logistic regression model
+7. checking the accuracy of both datas
+8. making a predictive system

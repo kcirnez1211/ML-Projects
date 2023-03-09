@@ -1,0 +1,8 @@
+1. Importing Dependencies
+2. loading dataset in a panda data frame
+3. Data analysis and visualization of features
+4. replacing text with numerics
+5. separating X and Y and later test and train data
+6. training linear regression model
+7. calculating the error of both data and plotting it
+8. Building a predictive system
