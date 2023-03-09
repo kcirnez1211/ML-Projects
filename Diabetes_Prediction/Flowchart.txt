@@ -1,0 +1,8 @@
+1. Importing Dependencies
+2. Data Collection(pandas)
+3. Data separation(X&Y)
+4. Data Standardization(Converting data to smaller closeby values)
+5. Splitting data(train and test)
+6. Training the model(SVM = Support Vector Machine)
+7. Evaluating the accuracy of both test and train
+8. Finally making a predictive model(using one instance)

@@ -1,0 +1,7 @@
+1. Saving the trained diabetes model
+2. importing pickle and loading the model
+3. with anaconda,spyder and streamlit
+4. load the saved file in spyder
+5. defining a function containing our trained model for diabetes detection
+6. Creating the UI for web app and inputting various data from user
+7. deploying the model using anaconda and streamlit
