@@ -1,0 +1,10 @@
+1. Importing Dependencies
+2. Loading dataset(panda)
+3. Checking for missing values and replacing them with an empty string
+4. Stemming to convert words to their root words
+5. separating data and labels
+6. Converting text to numbers(using TfidfVectorizer())
+7. splitting test and train data
+8. Training the L.R. model
+9. Evaluating the accuracy of test And training data
+10. building a prdictive system
