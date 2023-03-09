@@ -1,0 +1,9 @@
+1. Importing Dependencies
+2. loading dataset in a panda data frame
+3. checking missing values
+4. replacing numerics with mean and text categories with mode
+5. Visualizing all the features distribution
+6. Label encoding
+7. separating x and y and training and test data
+8. Training the XGBRegressor model
+9. calculating the error in both data
